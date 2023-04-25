@@ -1,0 +1,26 @@
+1 average of 3 numbers
+2 area of the rectangle
+3 perimeter of the rectangle
+4 area of the square
+5 perimeter of the square
+6 simple interest
+7 percentage of the student
+8 swapping of two numbers
+9 swapping using arthimatic operators
+10 even numbers
+11 positive or negative numbers
+12 finding the biggest number
+13 biggest among 3
+14 grades
+15 declare vowel or consonant
+16 checking eligibility of voting
+17 checking the eligibility of joining the college
+
+
+if(     2024%4=506    2023%4=505 remainder 3
+                    and
+     2000%100=20    but codition is "year%100 !=0"  )
+
+        OR
+
+    else   (2000%400=5)
